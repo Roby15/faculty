@@ -1,0 +1,16 @@
+Codurile Hamming sunt coduri liniare bloc, proiectate pentru a detecta si
+corecta erori aparute in transmiterea semnalelor mesajelor (sub forma de biti)
+de la un capat la celalalt printr-un canal de telecomunicatie. Scopul codurilor
+introduse de Richard Hamming era sa detecteze erori de pana la doi biti si sa
+corecteze o eroare de un singur bit. Avantajul lor este dat de faptul ca se realizeaza usor codarea si decodarea. Codurile Hamming au aplicatii in domenii ca si
+serviciile de telecomunicatii, de exemplu comunicarile prin satelit, in constructia
+modemurilor, a procesoarelor incorporate. In codurile Hamming mesajele sunt
+codate cu ajutorul bitilor redundanti, numiti si biti de paritate. Acesti biti se
+adauga mesajului, fiind plasati pe diferite poziti printre bitii mesajului.
+In continuare vom discuta despre descrierea matriciala a unui caz concret:
+codul Hamming (7, 4). Acesta reprezinta un cod de corectare a erorilor care
+codifica 4 biti de date in 7 biti prin adaugarea a 3 biti de paritate (sau de
+control). Avem pe pagina urmatoare o reprezentare grafica a celor patru biti de
+1
+date, notati 𝑑1, 𝑑2, 𝑑3, 𝑑4, si a trei biti de paritate 𝑝1, 𝑝2, 𝑝2, aratand ce biti de
+paritate au fost aplicati caror biti de date.
