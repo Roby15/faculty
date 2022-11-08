@@ -1,0 +1,25 @@
+1. Să se scrie un program în C care, folosind funcții și un meniu interactiv să
+conțină următoarele opțiuni:
+a) Citirea unui vector cu n elemente
+b) Afișarea vectorului
+c) Afișarea elementelor divizibile cu 5
+d) Afișare sumei elementelor de pe poziții impare
+e) Afișarea produsului elementelor impare
+f) Ieșire
+2. Să se calculeze suma elementelor de pe diagonala secundare a unei matrice
+pătratice citite de la tastatură folosind funcții.
+3. Să se scrie un program în C folosind funcții care să citească de la tastatură o
+matrice pătratică. Să se creeze un meniu interactive cu următoarele opțiuni:
+a) Afișarea matricii pătratice
+b) Să se afișeze suma numerelor pare deasupra diagonalei secundare
+c) Să se afișeze suma elementelor pare de sub diagonal principală
+d) Să se afișeze elementele prime din matrice
+e) Iesire
+4. Să se scrie un program în C care, folosind funcții și un meniu interactiv să
+conțină următoarele opțiuni:
+a. Şterge dintr-un şir de caractere un subşir specificat prin poziţie şi lungime.
+b. Inserează într-un şir începând cu o poziţie dată un al şir.
+c. Citeşte doua cuvinte şi înlocuieşte într-un text introdus de la tastatură toate
+apariţiile primului cuvânt prin cel de-al doilea.
+5. Să se realizeze un program care să determine dacă un număr citit de la tastatură este prim,
+utilizând o funcţie definită de utilizator.
