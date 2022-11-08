@@ -1,1 +1,1 @@
-Repositori (faculty)
+Repository (faculty)
